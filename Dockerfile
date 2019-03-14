@@ -1,6 +1,6 @@
 FROM openjdk:8u111-jre-alpine
 
-MAINTAINER Dieter Wimberger "dieter@wimpi.net"
+MAINTAINER Scott Smith "smitherz82@gmail.com"
 
 EXPOSE 10389
 
