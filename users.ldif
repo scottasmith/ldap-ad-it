@@ -162,6 +162,7 @@ userPrincipalName: admin@example.local
 userAccountControl: 0
 userPassword: secret
 memberOf: admin
+mail: admin@example.local
 
 dn: uid=test1,ou=users,dc=example,dc=local
 objectClass: top
@@ -179,6 +180,7 @@ sAMAccountName: test1
 userPrincipalName: test1@example.local
 userAccountControl: 0
 userPassword: secret
+mail: test1@example.local
 
 dn: uid=test2,ou=users,dc=example,dc=local
 objectClass: top
@@ -196,6 +198,7 @@ sAMAccountName: test2
 userPrincipalName: test2@example.local
 userAccountControl: 0
 userPassword: secret
+mail: test2@example.local
 
 dn: ou=roles,dc=example,dc=local
 objectclass: top
